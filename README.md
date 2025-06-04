@@ -14,6 +14,11 @@ This repository contains a collection of machine learning projects focusing on d
   - Skewness analysis
   - Histograms for feature distributions
 
+- `feature_selection.ipynb`: Contains feature extraction techniques including:
+  - Univariate Feature Selection
+  - Recursive Feature Elimination (RFE)
+  - Principal Component Analysis (PCA)
+
 ## Dataset
 
 The project uses the Pima Indians Diabetes Dataset, which includes several health metrics and a binary classification for diabetes. The dataset has the following features:
